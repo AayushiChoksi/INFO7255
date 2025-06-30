@@ -1,8 +1,3 @@
-# INFO7255 - Adv Big-Data App/Indexing
-
-| NUID      | EMAIL                         |
-| :---:     | :---:                         |
-| 002771533 | gargava.s@northeastern.edu     |
 
 ## Requirements
 
