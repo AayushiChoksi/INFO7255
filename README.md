@@ -10,7 +10,7 @@
 Clone the repo and install the dependencies.
 
 ```bash
-git clone git@github.com:nemadep/INFO7255.git
+git clone 
 cd INFO7255
 ```
 
